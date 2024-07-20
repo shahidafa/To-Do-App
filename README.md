@@ -1,1 +1,1 @@
-# To-Do-App
+"I have created a To-Do List app using HTML, CSS, and JavaScript. When you enter a task into the input box and submit it, the task is stored in the browser's local storage. From there, you can check off tasks as completed or delete them as needed."
